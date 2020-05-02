@@ -1,5 +1,5 @@
 #  Ciência da Computaçao - UNIFEG
- : mortar_board:[Página do curso](https://www.unifeg.edu.br/webacademico/site/descricaocurso.jsp?Ciencia-da-Computacao&codigocurso=101)
+[Página do curso](https://www.unifeg.edu.br/webacademico/site/descricaocurso.jsp?Ciencia-da-Computacao&codigocurso=101):mortar_board:
  Duração do curso: _8 semestre_
  
  Período: _Noturno_
